@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.private/
+*backup*.json
+body-training-*.json
+.DS_Store
